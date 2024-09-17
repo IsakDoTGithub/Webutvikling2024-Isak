@@ -1,0 +1,8 @@
+index.html {
+    egenskap: verdi;
+}
+p {
+    color: blue;
+    font-size: 16px;
+}
+<p> Dette blir en blo tekst med font str 16px </p>
